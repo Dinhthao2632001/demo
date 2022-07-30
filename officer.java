@@ -32,7 +32,5 @@ public class officer {
     public void setAddress(String address) {
         this.address = address;
     }
-    public String getAddress() {
-        return address;
-    }
+    
 }
